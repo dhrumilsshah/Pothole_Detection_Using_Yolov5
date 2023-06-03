@@ -1,0 +1,5 @@
+train: ../Pothole_data/train/images
+val: ../Pothole_data/valid/images
+
+nc: 1
+names: ['pothole']
